@@ -31,7 +31,7 @@ namespace Twitch
 
         private static void WelcomeMsg()
         {
-            Chat.Print("Doctor{0} Loaded. Good Luck!", Color.GreenYellow, ChampName);
+            Chat.Print("twitch{0} Loaded. buena suerte!", Color.GreenYellow, ChampName);
             Console.ForegroundColor = ConsoleColor.Cyan;
             Console.WriteLine("Doctor{0} Loaded. Good Luck!", ChampName);
             Console.ResetColor();
