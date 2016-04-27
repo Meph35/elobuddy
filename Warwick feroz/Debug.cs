@@ -3,7 +3,7 @@ using System;
 using System.Drawing;
 using Settings = Warwick.Config.DebugMenu;
 
-namespace Warwick
+namespace Warwick Feroz
 {
     class Debug
     {
@@ -46,7 +46,7 @@ namespace Warwick
             {
                 return;
             }
-            Chat.Print("[Doctor{0}] {1}", color, Program.ChampName, text);
+            Chat.Print("[WF{0}] {1}", color, Program.ChampName, text);
             _lastChatMsg = Environment.TickCount;
             _lastChatMsgText = text.Substring(0, text.Length >= 20 ? 20 : text.Length - 1);
         }
@@ -73,7 +73,7 @@ namespace Warwick
                 return;
             }
             Console.ForegroundColor = color;
-            Console.WriteLine("[Doctor{0}] {1}", Program.ChampName, text);
+            Console.WriteLine("[WF{0}] {1}", Program.ChampName, text);
             Console.ResetColor();
             _lastConsoleMsg = Environment.TickCount;
             _lastConsoleMsgText = text.Substring(0, text.Length >= 20 ? 20 : text.Length - 1);
