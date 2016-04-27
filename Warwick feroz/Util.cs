@@ -4,7 +4,7 @@ using EloBuddy.SDK.Menu.Values;
 using SharpDX;
 using System;
 
-namespace Warwick
+namespace Warwick Feroz
 {
     public static class Util
     {
