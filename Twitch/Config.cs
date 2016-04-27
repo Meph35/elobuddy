@@ -18,9 +18,10 @@ namespace Twitch
         static Config()
         {
             Menu = MainMenu.AddMenu(MenuName, MenuName.ToLower());
-            Menu.AddGroupLabel("Doctor Twitch");
-            Menu.AddLabel("Halo!");
-            Menu.AddLabel("Good Luck.");
+            Menu.AddGroupLabel("Twitch");
+            Menu.AddLabel("Hola,disfruta!");
+            Menu.AddLabel("buena suerte.");
+            Menu.AddLabel("agregame en Las como TKM faker.");
             ModesMenu.Initialize();
             PredictionMenu.Initialize();
             ManaManagerMenu.Initialize();
