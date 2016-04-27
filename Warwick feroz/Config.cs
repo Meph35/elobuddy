@@ -10,14 +10,14 @@ namespace Warwick
 {
     public static class Config
     {
-        private const string MenuName = "Warwick";
+        private const string MenuName = "Warwick Feroz";
 
         private static readonly Menu Menu;
 
         static Config()
         {
             Menu = MainMenu.AddMenu(MenuName, MenuName.ToLower());
-            Menu.AddGroupLabel("Doctor Warwick");
+            Menu.AddGroupLabel("Warwick Feroz");
             Menu.AddLabel("Auto Q");
             Menu.AddLabel("Good Luck.");
             ModesMenu.Initialize();
