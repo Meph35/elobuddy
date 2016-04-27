@@ -7,7 +7,7 @@ namespace Warwick
 {
     public static class Program
     {
-        public const string ChampName = "Warwick";
+        public const string ChampName = "Warwick Feroz";
 
         public static void Main(string[] args)
         {
@@ -29,9 +29,9 @@ namespace Warwick
 
         private static void WelcomeMsg()
         {
-            Chat.Print("Doctor{0} Loaded. Have a splendid game!", Color.Red, ChampName);
+            Chat.Print("WF{0} Loaded. Have a splendid game!", Color.Red, ChampName);
             Console.ForegroundColor = ConsoleColor.Red;
-            Console.WriteLine("Doctor{0} Loaded. Have a splendid game!", ChampName);
+            Console.WriteLine("WF{0} Loaded. Have a splendid game!", ChampName);
             Console.ResetColor();
         }
     }
