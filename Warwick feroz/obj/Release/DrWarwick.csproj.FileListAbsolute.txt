@@ -1,0 +1,17 @@
+D:\adoons\Doctor Warwick\bin\Release\Warwick.exe.config
+D:\adoons\Doctor Warwick\bin\Release\Warwick.exe
+D:\adoons\Doctor Warwick\bin\Release\Warwick.pdb
+D:\adoons\Doctor Warwick\bin\Release\EloBuddy.dll
+D:\adoons\Doctor Warwick\bin\Release\EloBuddy.SDK.dll
+D:\adoons\Doctor Warwick\bin\Release\mscorlib.dll
+D:\adoons\Doctor Warwick\bin\Release\SharpDX.dll
+D:\adoons\Doctor Warwick\bin\Release\SharpDX.Direct3D9.dll
+D:\adoons\Doctor Warwick\bin\Release\Newtonsoft.Json.dll
+D:\adoons\Doctor Warwick\bin\Release\EloBuddy.Sandbox.dll
+D:\adoons\Doctor Warwick\bin\Release\normidna.nlp
+D:\adoons\Doctor Warwick\bin\Release\normnfc.nlp
+D:\adoons\Doctor Warwick\bin\Release\normnfd.nlp
+D:\adoons\Doctor Warwick\bin\Release\normnfkc.nlp
+D:\adoons\Doctor Warwick\bin\Release\normnfkd.nlp
+D:\adoons\Doctor Warwick\obj\Release\Warwick.exe
+D:\adoons\Doctor Warwick\obj\Release\Warwick.pdb
