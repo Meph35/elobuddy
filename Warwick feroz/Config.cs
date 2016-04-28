@@ -19,7 +19,7 @@ namespace Warwick
             Menu = MainMenu.AddMenu(MenuName, MenuName.ToLower());
             Menu.AddGroupLabel("Warwick Feroz");
             Menu.AddLabel("Auto Q");
-            Menu.AddLabel("Good Luck.");
+            Menu.AddLabel("buena suerte.");
             ModesMenu.Initialize();
             PredictionMenu.Initialize();
             ManaManagerMenu.Initialize();
